@@ -1,0 +1,2 @@
+# Python Data Types- Strings, Floats, Integers, Booleans
+# Python- A programming language used to build a variety of software progreams such as apps, games, and AI tools.
