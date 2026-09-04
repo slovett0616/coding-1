@@ -1,3 +1,4 @@
+
 # VARIABLES - a container that stores data.
 # you can name your container ALMOST anything 
 # you want, so long as it is descriptive. 
@@ -36,7 +37,8 @@ hasfriedOniond = True
 
 
 # Variable Naming Conventions
-# we use naming conventions because we CANNOT have spaces in variable names
+# we use naming conventions because we CANNOT have spaces in 
+# variable names
 
 AppleNum = 100
 StudentNum = 20
@@ -47,5 +49,32 @@ GoldMem = True
 lemonadeprice = 3.15
 orangejuiceprice = 2.35
 coffeeprice = 5.25
+
+
+# Camel Case - when creating variable names with multiple words, 
+# every new word begins with a capital letter
+# the reason why its called camel case is bc every new word 
+# represents a hump.
+
+usernamefornewinstagramaccounts = 0 # no camel case
+
+usernameForNewInstagramAccounts = 0 # With camel case
+
+# Snake Case - when creating a variable using snake case
+# we use a underscore symbol to space out each new word.
+
+
+passwordrecoverytiktokaccount = 0 # no snake case
+
+password_recovery_tiktok_account = 0 # with snake case
+
+
+
+
+
+
+
+
+
 
 

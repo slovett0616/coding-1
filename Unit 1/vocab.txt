@@ -1,2 +1,10 @@
 # Python Data Types- Strings, Floats, Integers, Booleans
 # Python- A programming language used to build a variety of software progreams such as apps, games, and AI tools.
+# Computing Terminal- A digital machine that runs code programs.
+# Code Environment- A digital space for building programs using code.
+# Repository- A digital space for building programs using code.
+# Predictive AI- Software that analyzes data and makes probabilistic decisions (Weather Forecasting, Netflix recommendations). 
+# Generative AI- Software that creates content such as text, images, audio, and video based on data (ChatGPT - text, Sora - images, Suno - sounds).
+# Assistant AI- Software designed to interpret and interact with human language (Alexa, Customer service chat bots). 
+# Recommendation AI- Software that analyzes individual data and makes probabilistic recommendations (Social media algorithms (discover page), internet ads).
+
