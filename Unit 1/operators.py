@@ -29,17 +29,6 @@ name = "Syire Lovett"
 grade = 10
 school = True
 
-# Arithmetic Operators- Used on numerical
-# data types to perform calculations.
-# integers (whole numbers) and floats (decimal numbers)
-
-# print is a function that lets us show code
-# in the terminal
-print(3 + 3) # addition operator
-print(3.9 - 3) # subtraction operator
-print(12 / 3) # division operator
-print(3 * 4) # multiplication operator
-
 # Comparison Operators - Set of symbols used
 # to assess if data is the same or different and
 # how they differ
