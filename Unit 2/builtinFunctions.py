@@ -32,6 +32,10 @@ num1 = int(input("type in a number: "))
 #input always returns a string
 print(4 + int(num1))
 
-# Float()- Any data type passed into the brackets will
-# be converted into a Float(decimal) 
+# Float()- A function that will change any datatype
+# passed into it, into a float/decimal number
+
+num2 = input("type in a number: ")
+# input always returns a string
+print(9 + float(num2)) 
 

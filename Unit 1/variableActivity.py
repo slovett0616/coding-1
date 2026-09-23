@@ -30,12 +30,6 @@ hasfriedOniond = True
 
 
 
-
-
-
-
-
-
 # Variable Naming Conventions
 # we use naming conventions because we CANNOT have spaces in 
 # variable names
