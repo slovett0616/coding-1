@@ -9,9 +9,11 @@ num1 = input("type in a number: ")
 print(int(num1) > 85)
 
 #2
-num2 = input("type in a number: ")
+num2 = input("type in a number: ") 
+# Input always take data as string
 print(int(num2) + 360)
 
 #3
-User = input("type in a number: ")
-print(int(BoysLatin) == User)
+val = input("type in a number: ")
+val2 = "Boys Latin"
+print(val == val2) 
