@@ -9,7 +9,8 @@
 
 # If it is less than the second input it
 # should print true. If it is not, it should print false.
-def compareValue():
+def compareValue(): 
+    print("compareValue Running: ")
     num1 = int(input())
     num2 = int(input())
     print(int(num1) < num2)
@@ -28,6 +29,7 @@ compareValue()
 # of absenses is less than 5, the program should print 
 # true, other wise it should print false.
 def compareHonor():
+    print("compareHonor Running: ")
     Grade = int(input())
     Absenses = int(input())
     print(int(Grade) > 90 and (Absenses) < 5)
