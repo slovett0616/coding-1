@@ -11,14 +11,31 @@
 
 # memory trick - PARAMETER AND PLACEHOLDER BOTH 
 # START WITH THE LETTER P
-def check_Water_Depth(depth):
+def check_Water_Depth(depth, volume, acidic, temparature):
     print(depth)
+    print(volume)
+    print(acidic)
+    print(temparature)
     print(depth > 10) # true if depth is greater than 10 feet.
     # return depth
 
-    # Function ARguments- This is the REAL DATA that we pass into
+    # Function Arguments- This is the REAL DATA that we pass into
     # the function call.
     # memory trick- if you make a REAL world argument with a person
     # you need to come with REAL facts (data)
-    check_Water_Depth(23)
+#check_Water_Depth(7, 100, False, 78)
+
+# return - this keyword allows us to pass data from INSIDE 1 function
+# into another function
+def username():
+   name = input("please type user name: ")
+   return name
+
+
+def confirmLogin():
+    name = username()
+    print(name)
+
+#username()
+confirmLogin()
 
