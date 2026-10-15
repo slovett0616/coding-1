@@ -82,7 +82,18 @@ def MainCalculator():
 MainCalculator()
     
     
-def calculate_Movie_Tickets():
-    print("program started: type in a number to compare")
+def Movie_Ticket_Prices():
+    age = int(input("program started: please type in your age (7, 8 to 20 ,21 to 60, or 61): "))
+    if age < 7:
+        print("That will be 8$")
+    elif age >= 8 and age<= 20:
+        print("That will be 12$")
+    elif age >= 21 and age <= 60:
+        print("That will be 20$")
+    elif age >= 61:
+        print("You can watch for free")
+    else:
+        print("Sorry, but we cant accept this")
+Movie_Ticket_Prices()
     
 
