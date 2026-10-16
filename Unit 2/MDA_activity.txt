@@ -1,0 +1,6 @@
+Mechanics: A simple straight foward infinite side scroller where you click/tap to make a yellow bird fly while trying to get
+the highest score you can. Its the only gameplay loop and the only thing you can do is fly.
+
+Dynamics: You have to dodge randomly generated green pipes. If you get hit by one of the pipes you will have to start over completely.
+
+Asthetics: Mainly an 8-bit look to appeal to kids. Its bright and vibrant and overall has a simple art style.
