@@ -4,3 +4,18 @@ the highest score you can. Its the only gameplay loop and the only thing you can
 Dynamics: You have to dodge randomly generated green pipes. If you get hit by one of the pipes you will have to start over completely.
 
 Asthetics: Mainly an 8-bit look to appeal to kids. Its bright and vibrant and overall has a simple art style.
+
+
+1. I plan to make a open world rpg set in the Heian era. Where you play as a samurai traveling to different dojo's trying to get stronger.
+
+2. Players will complete side quests, travel to different dojo's and defeat enemies and bosses.
+
+3. If a player completes a main quest or side quest they will be rewarded with rewards such as skill points or money. If its at
+a certain point in a main quest then they might learn a new skill.
+
+4. Depending on if the player fails or succeeds a death count system will effect the weather. If you die too many times, it will
+begin to rain and slowly transform into a storm. If you dont die as much, the sky will be full of color and the environment will 
+feel more alive.
+
+5. Games im taking inspiration from are ghost of tsushima, sekiro, and elden ring.
+
