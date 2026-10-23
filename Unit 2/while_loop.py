@@ -19,19 +19,19 @@
 # The computer must ALWAYS complete their tasks before moving to the next step.
 
 
-#def guessingGame():
-    #correctAnswer= 8
-    #attempts= 0
-    #print("WELCOME TO THE GUESSING GAME")
-    #print("Please type in a number between 1 and 10")
-    #userGuess = int(input("Please type in a number: "))
-    #while userGuess != correctAnswer:
-        #print("Sorry, incorrect. Guess again.")
-        #attempts+= 1
-        #print("attempts")
-        #userGuess =int(input("please try another number: "))
-    #print("Congrats! you guessed correctly. game over")
-# guessingGame()
+def guessingGame():
+    correctAnswer= 8
+    attempts= 0
+    print("WELCOME TO THE GUESSING GAME")
+    print("Please type in a number between 1 and 10")
+    userGuess = int(input("Please type in a number: "))
+    while userGuess != correctAnswer:
+        print("Sorry, incorrect. Guess again.")
+        attempts+= 1
+        print("attempts")
+        userGuess =int(input("please try another number: "))
+    print("Congrats! you guessed correctly. game over")
+guessingGame()
 
 
 
