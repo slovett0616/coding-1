@@ -3,23 +3,26 @@ import random
 def dice_game():
     print("Welcome to the Dice Game")
     print("Roll a 7 to win. Roll anything else to lose.")
+    score = 0
     
     while True:
         choice = input("Enter 'r' to roll or 'q' to quit: ")
         
         if choice == 'q':
-            print("Thanks for playing")
+            print(f"Thanks for playing. final score: {score}")
             break
             
         elif choice == 'r':
             roll = random.randint(1, 7)
-            print("You rolled a: {roll}")
+            print(f" you rolled a {roll}")
             
             
             if roll == 7:
-                print("You rolled a 7, you win!")
+                score += 10
+                print(f"You rolled a 7, you win! current score:{score}")
             else:
-                print("You lost, try again")
+                score -= -5
+                print(f"You lost, try again. Current score : {score}")
                 
         else:
             print("This is not an input. Please enter 'r' or 'q'.")
