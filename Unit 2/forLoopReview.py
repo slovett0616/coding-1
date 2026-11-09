@@ -11,6 +11,3 @@ def NumList():
     numbers = ['1','','','','']
     numbers.insert(5,input())
 NumList()
-
-    
-    
