@@ -1,5 +1,8 @@
-1. A momentum based high speed platformer where you perform combos to keep your speed and even move faster. 
-The combo meter depends on how fast you go. Landing on enemies will also maintain the speed and build combo meter
+Mach-
+
+1. A 2d momentum based high speed platformer where you perform combos to keep your speed and even move faster. 
+The combo meter depends on how fast you go. Landing on enemies will also maintain the speed and build combo meter. To complete levels
+you have to have a certain amount of score along with moving at a certain speed. 
 
 
 2. You can move with: w a s d or arrows keys to move around. Pressing Z will allow you to jump and pressing X will allow you to perform tricks. 
@@ -10,3 +13,8 @@ airborne.
 
 3. 2 objcets I will need in the game are maps that fit the games mechanics and the character you play as. The map will include: enemies, item boxes, and slopes.
 The character you play as will include a speed meter, abilities, and jump mechanic.
+
+Replayability- achievements, unlocking abilities, and mastering the mechanics to complete levels as fast
+as possible for more rewards.
+
+Inspirations- Sonic the hedgehog, Mario, Fancy pants adventures.

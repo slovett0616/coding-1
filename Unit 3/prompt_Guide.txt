@@ -1,0 +1,37 @@
+1. A momentum based 2d running game where the player is tasked to complete multiple levels and travel through worlds to get to harder levels until they 
+reach the end of the game. What makes the game challanging and fun is the level design that has multiple pathways that allow for 
+replayability in previous levels, and slopes that builds momentum to have you running as fast as you possibly can.
+You can also unlock a variety of skills that change the way you play these levels. 
+
+
+2. There will be a menu consisting of a settings button that lets you tweak visual or keybinds and a play button that actually
+lets you enter the game.
+
+
+3. The game objects that will be in the game are the player model, the enemies, and a end flag to complete a level. The Player model and enemies
+would look like stick figures, similar to a game called "Fancy Pants Adventures". The end flag
+
+
+4. The player will only be allowed to move right, and cannot move left. As a player runs, they will passivley gain speed, but if 
+theyre hit by an enemy they will loose that speed. Killing enemies by jumping on them, rolling into them, or attacking them 
+will give them score and maintain their speed. Using a Trick on the ground will allow you to roll, but using it in the air after
+jumping off of a ledge or jumping off of an enemy will allow you to do an air trick for more score.
+Player control scheme: 
+ D/right arrow: move right
+ Z: Jump
+ X: Roll/AirTricks
+ C: Attack
+
+
+5. There will be gaps in the map that act as voids that can instantly kill you if you fall into them.
+Some enemy objects will have 3 modes, passive, fear, and attack mode. Passive mode is the mode theyre naturally in, they do not 
+attack in this mode and walk around. Attack mode is the mode they enter whenever you are spotted, they will shoot bullets at
+you, or rush towards you depending on the enemy type. Fear mode is the mode they enter if they are already in attack mode and they spot
+you killing another enemy. However, its a 5% chance this can happen and the chance can be increased as you progress through
+the game.
+
+
+6. To win the game, you have to fill out a level requirement, wether thats killing a certain amount of enemies, getting enough score, 
+or completing a level while running at a certain speed. To lose you either have to fail the level requirement and get to the end of the stage,
+or die to an enemy.
+
